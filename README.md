@@ -12,7 +12,11 @@ Enjoy ☺
 
 ## How to use
 
-After installation and activation, you should go in settings (`File` → `Preferences` → `File Icon Theme` on Windows, or `Code` → `Preferences`  → `File Icon Theme` on macOS), and select `VSCode Great Icons`.
+After installation and activation, you should go in settings (`File` → `Preferences` → `File Icon Theme` on Windows, or `Code` → `Preferences` → `File Icon Theme` on macOS), and select `VSCode Great Icons`.
+
+## Development
+
+See the [VS Code icon theme extensions docs](https://code.visualstudio.com/api/extension-guides/product-icon-theme). Edit icons in `icons.json` and run `npm run package` to generate a `.vsix` file that you can install in VS Code.
 
 ## Want more?
 
@@ -26,10 +30,9 @@ I can add more icons if you need, [open a **new** issue](https://github.com/Emma
 
 Check out the [Simpler VSCode Icons](https://github.com/DavidBabel/vscode-simpler-icons) fork by **@DavidBabel**! Though it’s not been updated recently and might not be up to date, it has a lot of angular icons for various filetypes in angular projects.
 
-
 ## Follow me
 
-* [Twitter](https://twitter.com/EmmanuelBeziat)
-* [GitHub](https://github.com/EmmanuelBeziat)
-* [CodePen](http://codepen.io/EmmanuelBeziat)
-* [Site](https://www.emmanuelbeziat.com)(fr)
+- [Twitter](https://twitter.com/EmmanuelBeziat)
+- [GitHub](https://github.com/EmmanuelBeziat)
+- [CodePen](http://codepen.io/EmmanuelBeziat)
+- [Site](https://www.emmanuelbeziat.com)(fr)

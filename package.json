@@ -8,6 +8,7 @@
 		"vscode": "^1.70.0"
 	},
 	"scripts": {
+		"package": "vsce package",
 		"publish": "vsce publish",
 		"patch": "vsce publish patch"
 	},
@@ -18,8 +19,8 @@
 	"contributes": {
 		"iconThemes": [
 			{
-				"id": "vscode-great-icons",
-				"label": "VSCode Great Icons",
+				"id": "vscode-great-icons-danharper",
+				"label": "VSCode Great Icons [danharper]",
 				"path": "./icons.json"
 			}
 		]
